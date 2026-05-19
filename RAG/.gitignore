@@ -1,0 +1,4 @@
+*.json
+*.arrow
+/__pycache__
+*.env

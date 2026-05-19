@@ -7,3 +7,14 @@ scipy
 tensorflow
 torch
 jupyter
+huggingface
+transformers
+datasets
+fastapi
+uvicorn
+langchain-text-splitters
+langchain
+sentence_transformers
+langchain_community
+ollama
+pinecone
